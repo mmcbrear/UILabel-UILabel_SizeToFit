@@ -1,0 +1,3 @@
+When using UILabel's "sizeToFit" with uppercase fonts, foreign accents on fonts are clipped due to the text metrics being improperly calculated.
+
+This Category allows for some extra height padding to be added when using "sizeToFit", saving you some grief with localized version of your app.
